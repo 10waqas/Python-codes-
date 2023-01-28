@@ -17,3 +17,12 @@ print("me thk hun Yrrr tm btao")
 :wq
 
 
+
+
+
+
+print("me bh thk")
+
+
+
+
